@@ -1,0 +1,14 @@
+svg{
+    position: absolute;
+}
+
+h1 {
+    position:absolute;
+    bottom: 70%;
+    left: 40%;
+    font-family:Arial, Helvetica, sans-serif;
+    color:white;
+    font-size:50px;
+    font-weight: lighter;
+    
+}
